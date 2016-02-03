@@ -1,0 +1,55 @@
+body{margin: 0px;
+	padding: 0px;
+}
+.pasto{
+	background-color:green;
+	height: 400px;
+	width: 680px;
+	position:absolute;
+}
+.cancha{
+	border: 2px solid white;
+	position: absolute;
+	height: 370px;
+	width: 650px;
+	margin: 10px;
+}
+.PorteriaIzquierda{
+	border: 2px solid white;
+	position: absolute;
+	height: 230px;
+	width: 130px;
+	right: 518px;
+	bottom: 70px;
+}
+.PorteriaDerecha{
+	border: 2px solid white;
+	position: absolute;
+	height: 230px;
+	width: 130px;
+	left: 518px;
+	bottom: 70px;
+}
+.circulo{
+	border-radius: 100%;
+	border: 2px solid white;
+	height: 130px;
+	width: 130px;
+	position: absolute;
+	margin: 120px 260px;
+}
+.bola1{
+	position: absolute;
+	left: 120px;
+	bottom: 270px;
+}
+.bola2{
+	position: absolute;
+	left: 340px;
+	bottom: 270px;
+}
+.bola3{
+	position: absolute;
+	left: 490px;
+	bottom: 80px;
+}
